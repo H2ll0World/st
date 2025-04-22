@@ -10,4 +10,4 @@ https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/LC
 - checkout
 - reset vs revert
 
-- 
+https://github.com/gyoogle/tech-interview-for-developer/blob/master/Algorithm/MergeSort.md
